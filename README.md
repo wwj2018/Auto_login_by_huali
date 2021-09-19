@@ -1,8 +1,8 @@
 # 2021-09-19
 
-脚本在两个目录上
-python_files包含脚本和其他安装包
-Autohotkey同上
+脚本在两个目录上  
+python_files包含脚本和其他安装包  
+Autohotkey同上  
 
 
 ### Python使用方法：  
@@ -21,7 +21,7 @@ Autohotkey同上
 1、	下载安装Autohotkey  
 2、	编辑文件中的AHK.ahk文件  
 3、	修改AHK.ahk中对应的天翼客户端文件与wifi.bat路径  
-![image](https://github.com/wwj2018/Auto_login_by_huali/blob/master/Pictures/2.png   
+![image](https://github.com/wwj2018/Auto_login_by_huali/blob/master/Pictures/2.png)   
 4、	修改鼠标位置到天翼客户端的“登陆”按钮位置（与屏幕分辨率相关，可能需要重启机子）  
 调整例子：MouseMove, 960, 580  
 960 → 860 向左调整（向右则反之）  
