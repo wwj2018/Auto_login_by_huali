@@ -4,7 +4,7 @@
 python_files包含脚本和其他安装包
 Autohotkey同上
 
-Python使用方法：
+###Python使用方法：  
 1、	下载安装google chrome（测试的版本为93.x.x.x）  
 2、	下载chromedriver（93.x.x.x）  
 3、	将chromedriver放到C:\Program Files\Google\Chrome\Application  
@@ -14,7 +14,7 @@ Python使用方法：
 6、	测试运行  
 
 
-Autohotkey使用方法：
+###Autohotkey使用方法：  
 1、	下载安装Autohotkey  
 2、	编辑文件中的AHK.ahk文件  
 3、	修改AHK.ahk中对应的天翼客户端文件与wifi.bat路径  
