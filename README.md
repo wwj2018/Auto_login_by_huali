@@ -1,8 +1,9 @@
-2021-09-19
+# 2021-09-19
 
 脚本在两个目录上
 python_files包含脚本和其他安装包
 Autohotkey同上
+
 
 ### Python使用方法：  
 1、	下载安装google chrome（测试的版本为93.x.x.x）  
@@ -12,6 +13,8 @@ Autohotkey同上
 5、	编辑main.py中的论坛、校园网账号密码；编辑wifi.bat路径  
 ![image](https://github.com/wwj2018/Auto_login_by_huali/blob/master/Pictures/1.png)  
 6、	测试运行  
+
+
 
 
 ### Autohotkey使用方法：  
